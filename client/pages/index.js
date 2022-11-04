@@ -16,7 +16,6 @@ const Landing = ({ currentUser, tickets }) => {
   return (
     <div>
       <h2>Tickets</h2>
-
       <table>
         <thead>
           <tr>
